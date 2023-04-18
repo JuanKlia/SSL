@@ -1,6 +1,6 @@
 # SSL
-Este repositorio tendra los trabajos individuales realizados en la materia.
-UTN-FRBA.
+Este repositorio tendra los trabajos individuales realizados en la materia. <br />
+UTN-FRBA.<br />
 
 • **Sintaxis y semántica de los Lenguajes**  <br />
 • Curso: K2006 <br />
